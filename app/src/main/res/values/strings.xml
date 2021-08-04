@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image to Speech</string>
+    <string name="select_image_for_text_recognition">Select image for text recognition</string>
+    <string name="find_text_button">START</string>
+    <string name="find_face_contour_button">SnapShot</string>
+    <string name="find_text_cloud_button">Find text (cloud)</string>
+    <string name="find_objects_button">Find objects</string>
+</resources>
